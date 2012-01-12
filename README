@@ -1,0 +1,16 @@
+
+This project, Calculator, was written by Mary Romagnoli
+following suggestions and guidelines from the 2010 iOS 
+programming class CS193b , from Stanford University (see iTunes U for more info).
+
+It is a fully working calculator and a complete programming example.
+The user interface was created using Interface Builder.
+
+The code was written in the Spring of 2011.
+
+
+This program was designed for an iPhone 3G/3GS.  Upon launch, 
+a standard calculator layout is displayed.  The user may
+add, delete, multiply and divide.  The user may also store results.
+
+
